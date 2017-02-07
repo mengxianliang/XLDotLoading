@@ -5,7 +5,7 @@
 <br>
  ![image](https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif)
 <br>
- # 使用方法
+## 使用方法
 ```objc
 [XLDotLoading showInView:self.view];
 ```
