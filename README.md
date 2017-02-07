@@ -1,11 +1,11 @@
 # XLDotLoading
 仿照新浪微博的红包加载动画
- <br>
+<br>
 ## 显示效果如下
- <br>
+<br>
  ![image](https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif)
+<br>
  # 使用方法
-
 ```objc
 [XLDotLoading showInView:self.view];
 ```
