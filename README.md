@@ -5,7 +5,7 @@
 <br>
  ![image](https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif)
 <br>
-<img src="https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif" width="50%" height="50%" />
+<img src="https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif" width=200 height=356 />
 <br>
 ## 使用方法
 ```objc
