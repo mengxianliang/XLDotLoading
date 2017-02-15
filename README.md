@@ -5,6 +5,8 @@
 <br>
  ![image](https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif)
 <br>
+<img src="https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif" width="50%" height="50%" />
+<br>
 ## 使用方法
 ```objc
 [XLDotLoading showInView:self.view];
