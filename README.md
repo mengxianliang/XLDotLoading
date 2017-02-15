@@ -3,8 +3,6 @@
 <br>
 ## 显示效果如下
 <br>
- ![image](https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif)
-<br>
 <img src="https://github.com/mengxianliang/XLDotLoading/blob/master/1.gif" width=300 height=534 />
 <br>
 ## 使用方法
