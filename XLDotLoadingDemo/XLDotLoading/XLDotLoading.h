@@ -10,12 +10,13 @@
 
 @interface XLDotLoading : UIView
 
+//显示方法
 +(void)showInView:(UIView*)view;
-
+//隐藏方法
 +(void)hideInView:(UIView*)view;
 
--(void)show;
+-(void)start;
 
--(void)hide;
+-(void)stop;
 
 @end
